@@ -1,4 +1,4 @@
-# glycol_concentration
+# excel_glycol_calculator
 Calculate multiple volumes and concentrations of glycol and water.
 Calculate concentration by adding and subtracting volume.
 
